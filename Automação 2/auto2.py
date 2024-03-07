@@ -15,9 +15,6 @@ def teste():
             pa.write(senha)  
             # Entrar
             pa.click(-829, 729, duration=0.5)
-            #Sair
-            pa.click(-76, 149, duration=30)
-            pa.click(-144, 245, duration=5)
 
         '''-------------------------------INSCREVER-------------------------------------'''
             #Increver-se
